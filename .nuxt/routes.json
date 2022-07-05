@@ -1,0 +1,30 @@
+[
+  {
+    "name": "SelectChangeCoin",
+    "path": "/SelectChangeCoin",
+    "component": "D:\\\\Source\\\\dbx-bridge\\\\pages\\\\SelectChangeCoin.vue",
+    "chunkName": "pages/SelectChangeCoin",
+    "_name": "_62e52094"
+  },
+  {
+    "name": "SelectCoin",
+    "path": "/SelectCoin",
+    "component": "D:\\\\Source\\\\dbx-bridge\\\\pages\\\\SelectCoin.vue",
+    "chunkName": "pages/SelectCoin",
+    "_name": "_767819a6"
+  },
+  {
+    "name": "stableToken",
+    "path": "/stableToken",
+    "component": "D:\\\\Source\\\\dbx-bridge\\\\pages\\\\stableToken.vue",
+    "chunkName": "pages/stableToken",
+    "_name": "_c941f116"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Source\\\\dbx-bridge\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_acc463ee"
+  }
+]
